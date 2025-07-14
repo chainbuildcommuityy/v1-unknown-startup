@@ -4,7 +4,7 @@ const Page = () => {
   return (
     <div>
       this is the mainnn
-    
+
     </div>
   )
 }
